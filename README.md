@@ -14,6 +14,6 @@ In this project I have created a dashboard from the data which captures useful i
 
 *Description of the files*
 
-Sales Dashboard Visualisation: The pdf file has the final dashboard visualisation of the project.
+**Sales Dashboard Visualisation:** The pdf file has the final dashboard visualisation of the project.
 
-Creating Dashboard from Sales dataset: The Microsoft Excel Worksheet (.xlsx) has the raw data with the charts and the dashboard in three different sheets.
+**Creating Dashboard from Sales dataset:** The Microsoft Excel Worksheet (.xlsx) has the raw data with the charts and the dashboard in three different sheets.
